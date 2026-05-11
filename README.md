@@ -9,3 +9,7 @@ Tools: Unreal Engine v4.23 and Visual Studio 2019 Community
 
 Build and compile using Unreal Engine v4.23+
 
+## Assets Notice
+This repository does not contain all game assets.
+Certain files were omitted because of their large size and repository storage limitations.
+The uploaded assets are sufficient to showcase the project structure and implementation
